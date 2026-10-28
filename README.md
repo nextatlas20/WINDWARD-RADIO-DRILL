@@ -3,7 +3,13 @@
 This repository contains the sealed allocation packet for the harbour exercise.
 
 <!-- CONFLICT-BRIEF:BEGIN -->
-No conflict brief has been issued.
+## Unassigned radio requests — 18 June 2088
+Requests: 9 | Assigned: 7 | Conflicts: 2
+
+| Start (UTC) | Request | Team | Band | Demand | Priority |
+| --- | --- | --- | --- | ---: | ---: |
+| 09:00 | RQ-A | Harbour Patrol | VHF | 2 | 3 |
+| 10:15 | RQ-D | Ferry Control | VHF | 3 | 2 |
 <!-- CONFLICT-BRIEF:END -->
 
 ## Evidence policy
