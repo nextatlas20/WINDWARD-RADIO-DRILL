@@ -1,0 +1,6 @@
+channel_id,band,capacity,selection_rank
+CH-101,VHF,2,2
+CH-102,VHF,4,1
+CH-201,UHF,3,4
+CH-202,UHF,6,3
+CH-301,HF,5,5
